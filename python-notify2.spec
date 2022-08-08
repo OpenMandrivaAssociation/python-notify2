@@ -1,7 +1,7 @@
 Summary:	Python interface to desktop notifications
 Name:		python-notify2
 Version:	0.3.1
-Release:	3
+Release:	4
 License:	LGPLv2
 Group:		Development/Python
 Url:		https://pypi.org/project/notify2/
